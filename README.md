@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30869554/README.md)
+
 ## Hi there 👋
 
 <!--
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Uploading README.md…]()
+
 <p align="center">
   <a href="https://github.com/RaMyA99M">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffb8de&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Ramya%20%3A)" alt="Hello! I&#39;m Ramya :)" />
